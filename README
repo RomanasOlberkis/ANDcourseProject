@@ -1,0 +1,47 @@
+A private chat application with camera feature that allows to edit photos. 
+This idea came soon after "Messenger" had to comply with EU regulations on data collection.
+Photo editing even simple ones like cropping were removed since pictures and chat history data was stored on Facebook servers and sold to advertisers.
+"Private" part came after we were joking in our group chat about everybody.
+chipping in for a waterpark slide and 2 days later getting an actual advertisement for a waterpark slide from Whish.com for 700000 USD.
+Idea is that if the data is stored on individual devices, meaning that not even chat members can access the data of a user that is offline.
+This should in theory comply with EU regulation on data collection.
+
+This application must have a log in function.
+Must have camera feature in the chat.
+Pictures must editable before sending them.
+
+Application should allow group chats.
+Should allow to set nicknames.
+Data (chats, pictures) should be stored on individual device.
+Should have notifications.
+
+Application could have color filter options for camera.
+Could work in offline mode.
+Could have advertisement bars for sustainability.
+Could have video option on camera side.
+
+Will not have cloud storage.
+Will not have chat history of an offline user.
+Will not have face filter (ex. snapchat dog filter)
+
+
+A user can sign up.
+A user can log in.
+A user can delete the account.
+A user can send/edit pictures.
+
+A user should be able to change nickname.
+A user should be able to change password.
+A user should be able to remain logged in.
+A user should be able to change chat instance name.
+
+A user could install a desktop version.
+A user could set other nicknames.
+A user could make calls/ video calls.
+A user could have to pay for features (remove advertisements)
+
+A user will not receive messages from unknown to them users (will have to accept a request)
+A user will not see messages or photos sent by users that are offline.
+
+
+ 
