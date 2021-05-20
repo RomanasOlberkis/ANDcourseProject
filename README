@@ -6,42 +6,42 @@ chipping in for a waterpark slide and 2 days later getting an actual advertiseme
 Idea is that if the data is stored on individual devices, meaning that not even chat members can access the data of a user that is offline.
 This should in theory comply with EU regulation on data collection.
 
-This application must have a log in function.
-Must have camera feature in the chat.
+This application must have a log in function. (done)
+Must have camera feature in the chat.(Not done)
 Pictures must editable before sending them.
 
-Application should allow group chats.
-Should allow to set nicknames.
-Data (chats, pictures) should be stored on individual device.
-Should have notifications.
+Application should allow group chats.(Not done)
+Should allow to set nicknames.(done)
+Data (chats, pictures) should be stored on individual device.(Not done- too complex)
+Should have notifications.(Not done)
 
-Application could have color filter options for camera.
-Could work in offline mode.
-Could have advertisement bars for sustainability.
-Could have video option on camera side.
+Application could have color filter options for camera.(Not done)
+Could work in offline mode.(Not done)
+Could have advertisement bars for sustainability.(Not done)
+Could have video option on camera side.(Not done)
 
-Will not have cloud storage.
-Will not have chat history of an offline user.
-Will not have face filter (ex. snapchat dog filter)
+Will not have cloud storage.(Not done-too complex)
+Will not have chat history of an offline user.(Not done-too complex)
+Will not have face filter (ex. snapchat dog filter)(Not done-too complex)
 
 
-A user can sign up.
-A user can log in.
-A user can delete the account.
-A user can send/edit pictures.
+A user can sign up.(done)
+A user can log in.(done)
+A user can delete the account.( Not done)
+A user can send/edit pictures.(Not done- too complex)
 
 A user should be able to change nickname.
 A user should be able to change password.
-A user should be able to remain logged in.
+A user should be able to remain logged in.(done)
 A user should be able to change chat instance name.
 
-A user could install a desktop version.
-A user could set other nicknames.
-A user could make calls/ video calls.
-A user could have to pay for features (remove advertisements)
+A user could install a desktop version.( Not done)
+A user could set other nicknames.( Not done)
+A user could make calls/ video calls.( Not done)
+A user could have to pay for features (remove advertisements)( Not done)
 
-A user will not receive messages from unknown to them users (will have to accept a request)
-A user will not see messages or photos sent by users that are offline.
+A user will not receive messages from unknown to them users (will have to accept a request)( Not done)
+A user will not see messages or photos sent by users that are offline.( Not done)
 
 
  
