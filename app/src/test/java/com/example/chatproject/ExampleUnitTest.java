@@ -1,4 +1,4 @@
-package com.example.semproject;
+package com.example.chatproject;
 
 import org.junit.Test;
 
